@@ -26,7 +26,7 @@
 	}
 
 
-	$EmailTo = "rhiannon.kaulitzke@gmail.com";
+	$EmailTo = "william.r.doody@gmail.com";
 	$Subject = "New message received from Portfolio Website";
 
 	// prepare email body text
