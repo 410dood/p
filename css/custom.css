@@ -133,7 +133,7 @@ a:focus{
 	text-transform: uppercase;
 	color: #fff;
 	letter-spacing: 0.05em;
-	padding: 17px 15px 13px; 
+	padding: 17px 15px 13px;
 	position: relative;
 }
 
@@ -219,7 +219,7 @@ a:focus{
 	top: 0px;
 	left: 0;
 	width: 100%;
-	background: url(../images/dhaval-parmar-531583-unsplash.jpg) no-repeat bottom center;
+	background: url(../images/background3.jpg) no-repeat bottom center;
 	padding: 180px 0 100px;
 }
 
@@ -308,7 +308,7 @@ a:focus{
 	width: 100%;
 	padding: 230px 0 190px;
 	font-family: 'Poppins', sans-serif;
-	background: url(../images/dhaval-parmar-531583-unsplash.jpg) center center no-repeat fixed;
+	background: url(../images/background3.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
 
@@ -359,7 +359,7 @@ a:focus{
 .banner-two a{
 	margin: 0 6px;
 }
-	
+
 .banner-two a:hover{
 	background: #fff;
 	color: #3C0041;
@@ -414,7 +414,7 @@ a:focus{
 
 /* Skills Style */
 .skillst{
-	
+
 }
 
 .skillst .skillbar{
@@ -607,7 +607,7 @@ a:focus{
 
 .services{
 	padding: 100px 0;
-	background: url(../images/dhaval-parmar-531583-unsplash.jpg);
+	background: url(../images/background3.jpg);
 }
 
 .during {
@@ -840,7 +840,7 @@ a:focus{
 .complete-project-area-two{
 	padding: 80px 0 70px;
 	position: relative;
-	background: url(../images/dhaval-parmar-531583-unsplash.jpg) 50% 0 no-repeat fixed;
+	background: url(../images/background3.jpg) 50% 0 no-repeat fixed;
     background-size: cover;
 	font-family: 'Poppins', sans-serif;
 }
@@ -977,7 +977,7 @@ a:focus{
 
 .single-portfolio-overlay h3{
 	font-family: 'Raleway', sans-serif;
-	font-size: 14px;	
+	font-size: 14px;
 	font-weight: 400;
 	color: #fff;
 	margin: 0;
@@ -1019,7 +1019,7 @@ a:focus{
 .filter-container-two .list-inline>li:after{
 	content: '/';
 	margin-left: 16px;
-	
+
 }
 
 .filter-container-two .list-inline>li:last-child:after{
@@ -1089,7 +1089,7 @@ a:focus{
 
 .single-portfolio-overlay-two h3{
 	font-family: 'Raleway', sans-serif;
-	font-size: 14px;	
+	font-size: 14px;
 	font-weight: 400;
 	color: #fff;
 	margin: 0;
@@ -1119,7 +1119,7 @@ a:focus{
 }
 
 .mfp-close{
-	position: absolute !important; 
+	position: absolute !important;
 	background: #fff !important;
 	top: 0px !important;
 	opacity: 1 !important;
@@ -1312,7 +1312,7 @@ a:focus{
 .owl-theme .owl-nav {
 	margin-top: 10px;
 	text-align: center;
-	-webkit-tap-highlight-color: transparent; 
+	-webkit-tap-highlight-color: transparent;
 }
 
 .owl-theme .owl-nav [class*='owl-'] {
@@ -1323,33 +1323,33 @@ a:focus{
 	background: #D6D6D6;
 	display: inline-block;
 	cursor: pointer;
-	border-radius: 3px; 
+	border-radius: 3px;
 }
 
 .owl-theme .owl-nav [class*='owl-']:hover {
 	background: #869791;
 	color: #FFF;
-	text-decoration: none; 
+	text-decoration: none;
 }
 
 .owl-theme .owl-nav .disabled {
     opacity: 0.5;
-    cursor: default; 
+    cursor: default;
 }
 
 .owl-theme .owl-nav.disabled + .owl-dots {
-	margin-top: 10px; 
+	margin-top: 10px;
 }
 
 .owl-theme .owl-dots {
 	text-align: center;
-	-webkit-tap-highlight-color: transparent; 
+	-webkit-tap-highlight-color: transparent;
 }
 
 .owl-theme .owl-dots .owl-dot {
 	display: inline-block;
 	zoom: 1;
-	*display: inline; 
+	*display: inline;
 }
 
 .owl-theme .owl-dots .owl-dot span {
@@ -1360,15 +1360,15 @@ a:focus{
 	display: block;
 	-webkit-backface-visibility: visible;
 	transition: opacity 200ms ease;
-	border-radius: 30px; 
+	border-radius: 30px;
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-	background: #869791; 
+	background: #869791;
 }
 
 .testimonial{
-	background: url(../images/dhaval-parmar-531583-unsplash.jpg);
+	background: url(../images/background3.jpg);
 	padding: 90px 0;
 }
 
@@ -1446,7 +1446,7 @@ a:focus{
 .owl-testimonial2 .owl-nav {
 	margin-top: 10px;
 	text-align: center;
-	-webkit-tap-highlight-color: transparent; 
+	-webkit-tap-highlight-color: transparent;
 }
 
 .owl-testimonial2 .owl-nav [class*='owl-'] {
@@ -1457,33 +1457,33 @@ a:focus{
 	background: #D6D6D6;
 	display: inline-block;
 	cursor: pointer;
-	border-radius: 3px; 
+	border-radius: 3px;
 }
 
 .owl-testimonial2 .owl-nav [class*='owl-']:hover {
 	background: #869791;
 	color: #FFF;
-	text-decoration: none; 
+	text-decoration: none;
 }
 
 .owl-testimonial2 .owl-nav .disabled {
     opacity: 0.5;
-    cursor: default; 
+    cursor: default;
 }
 
 .owl-testimonial2 .owl-nav.disabled + .owl-dots {
-	margin-top: 10px; 
+	margin-top: 10px;
 }
 
 .owl-testimonial2 .owl-dots {
 	text-align: center;
-	-webkit-tap-highlight-color: transparent; 
+	-webkit-tap-highlight-color: transparent;
 }
 
 .owl-testimonial2 .owl-dots .owl-dot {
 	display: inline-block;
 	zoom: 1;
-	*display: inline; 
+	*display: inline;
 }
 
 .owl-testimonial2 .owl-dots .owl-dot span {
@@ -1495,14 +1495,14 @@ a:focus{
 }
 
 .owl-testimonial2 .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-	background: #869791; 
+	background: #869791;
 }
 
 .testimonial-two{
 	font-family: 'Poppins', sans-serif;
 	padding: 100px 0;
 	position: relative;
-	background: url(../images/dhaval-parmar-531583-unsplash.jpg) center 0 no-repeat fixed;
+	background: url(../images/background3.jpg) center 0 no-repeat fixed;
     background-size: cover;
 }
 
@@ -1807,7 +1807,7 @@ a:focus{
 }
 
 .google-map{
-	min-height: 700px;	
+	min-height: 700px;
 }
 
 .contact-form{
@@ -2070,7 +2070,7 @@ footer .row.no-gutters > [class*='col-'] {
 	top: 0px;
 	left: 0;
 	width: 100%;
-	background: url(../images/dhaval-parmar-531583-unsplash.jpg) no-repeat bottom center;
+	background: url(../images/background3.jpg) no-repeat bottom center;
 	padding: 150px 0 70px;
 }
 
@@ -2196,7 +2196,7 @@ footer .row.no-gutters > [class*='col-'] {
 }
 
 .entry-body{
-	
+
 }
 
 .entry-body p{
@@ -2410,7 +2410,7 @@ footer .row.no-gutters > [class*='col-'] {
 .btn-search:hover{
 	background: #303030;
 	border-color: #303030;
-	color: #fff; 
+	color: #fff;
 }
 
 .sidebar-author-area{
@@ -2442,7 +2442,7 @@ footer .row.no-gutters > [class*='col-'] {
 	font-weight: 400;
 	margin-top: 10px;
 }
-	
+
 .sidebar-author-image{
 	padding: 0 20px;
 	background: linear-gradient(#3C0041 50%, #f7f7f9 50%);
@@ -2614,62 +2614,62 @@ footer .row.no-gutters > [class*='col-'] {
 	.navbar-brand h1{
 		font-size: 22px;
 	}
-	
+
 	.navbar-default .navbar-nav > li > a{
 		font-size: 14px;
 		padding: 14px 8px 13px;
 	}
-	
+
 	.sticky-header .navbar-toggle .icon-bar{
 		background-color:#303030 !important;
 	}
-	
+
 	.navbar-default{
 		padding: 15px 0 8px;
 	}
-	
+
 	.single-service{
 		margin-bottom: 30px;
 	}
-	
+
 	.single-service-outer{
 		max-width: 400px;
 		margin: 0 auto;
 	}
-	
+
 	.single-resume{
 		margin-bottom: 30px;
 	}
-	
+
 	.testimonial-content p{
 		font-size: 18px;
 	}
-	
+
 	.blog-post{
 		max-width: 358px;
 		margin: 0 auto 30px;
 	}
-	
+
 	.copyright-text{
 		text-align: center;
 	}
-	
+
 	.footer-social{
 		text-align: center;
 	}
-	
+
 	.footer-social ul{
 		padding-left: 0;
 	}
-	
+
 	.sidebar-search{
 		margin-top: 50px;
 	}
-	
+
 	.about-image{
 		margin: 0 auto 40px;
 	}
-	
+
 	.main-title-caption h1{
 		font-size: 36px;
 	}
@@ -2677,7 +2677,7 @@ footer .row.no-gutters > [class*='col-'] {
 
 /* Mobile Layout */
 @media only screen and (max-width: 767px){
-	
+
 	.about,
 	.services,
 	.complete-project-area,
@@ -2687,20 +2687,20 @@ footer .row.no-gutters > [class*='col-'] {
 	.myblog{
 		padding:50px 0;
 	}
-	
+
 	.contact-form{
 		padding-top:50px;
 		padding-bottom:50px;
 	}
-	
+
 	.academic{
 		margin-top:50px;
 	}
-	
+
 	.section-title{
 		margin-bottom:30px;
 	}
-	
+
 	.navbar-default .navbar-toggle{
 		border: none;
 	}
@@ -2721,15 +2721,15 @@ footer .row.no-gutters > [class*='col-'] {
 	.navbar-default .navbar-collapse a{
 		padding: 14px 20px !important;
 	}
-	
+
 	.navbar-collapse{
 		background: #fff;
 	}
 
-	.navbar-collapse ul li a{ 
+	.navbar-collapse ul li a{
 		color:#303030 !important
 	}
-	
+
 	.navbar-collapse .active a:after{
 		transform:scale(0) !important;
 	}
@@ -2745,11 +2745,11 @@ footer .row.no-gutters > [class*='col-'] {
 	.navbar-collapse .active a{
 		color:#3C0041 !important;
 	}
-	
+
 	.banner img{
 		max-width: 180px;
 	}
-	
+
 	.banner h1{
 		font-size: 32px;
 		margin-bottom: 0;
@@ -2758,59 +2758,59 @@ footer .row.no-gutters > [class*='col-'] {
 	.banner-two h1{
 		font-size: 32px;
 	}
-	
+
 	.section-title h2{
 		font-size: 28px;
 	}
-	
+
 	.section-title-two h2{
 		font-size: 24px;
 	}
-	
+
 	.banner h2{
 		font-size: 22px;
 		margin-top: 0;
 	}
-	
+
 	.banner-two h2{
 		font-size: 22px;
 	}
-	
+
 	.single-portfolio{
 		max-width: 360px;
 		margin: 0 auto 30px;
 	}
-	
+
 	.testimonial-content p{
 		font-size: 16px;
 	}
-	
+
 	.mfp-close{
 		right:0 !important;
 	}
-	
+
 	.google-map{
 		min-height:400px;
 	}
-	
+
 	.list-inline > li{
 		padding-left: 2px;
 		padding-right: 2px;
 	}
-	
+
 	.filter-container .list-inline > li a{
 		font-size: 12px;
 		padding: 5px 8px;
 	}
-	
+
 	footer{
 		padding-top:50px;
 	}
-	
+
 	.single-project-area-two:after{
 		display: none;
 	}
-	
+
 	.main-title-caption h1{
 		font-size: 26px;
 	}
@@ -2822,67 +2822,67 @@ footer .row.no-gutters > [class*='col-'] {
 	.contact-form{
 		padding-left: 20px;
 		padding-right: 20px;
-	}	
-	
+	}
+
 	.banner-two{
 		padding: 156px 0 120px;
 	}
-	
+
 	.banner-two a{
 		display: block;
 		max-width: 260px;
 		margin: 0 auto 20px;
 	}
-	
+
 	.banner-two h1{
 		font-size: 28px;
 	}
-	
+
 	.banner-two h2{
 		font-size: 18px;
 	}
-	
+
 	.about-image{
 		max-width: 260px;
 	}
-	
+
 	.single-portfolio-two:hover .single-portfolio-info{
 		left: 20px;
 		bottom: 20px;
 	}
-	
+
 	.resume-icon{
 		width: 60px;
 	}
-	
+
 	.resume-icon i{
 		font-size: 30px;
 	}
-	
+
 	.resume-title{
 		margin-left: 60px;
 	}
-	
+
 	.resume-title ul li{
 		font-size: 12px;
 	}
-	
+
 	.client-img-two{
 		width: 100%;
 		float: none;
 	}
-	
+
 	.testimonial-single{
 		background: none;
 	}
-	
+
 	.testimonial-content-two{
 		margin-top: 30px;
 		width: 100%;
 		float: none;
 		text-align: center;
 	}
-	
+
 	.contact-form-two{
 		padding: 20px;
 	}
